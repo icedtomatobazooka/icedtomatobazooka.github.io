@@ -1,0 +1,1 @@
+document.write("<p>JavaScript テスト この文章は外部に保存したjsファイルによって表示しています</p>");
